@@ -12,7 +12,7 @@
 Me interesso tanto por front quanto por back-end, e minhas principal linguagem no momento é JavaScript. 
 Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras! -->
 <li>Systems Analysis and Development student at UNISUAM.</li>
-<li>I'm interested in both front and back-end, and my main language at the moment is JavaScript.</li>
+<li>I'm interested in both front and back-end, and my main language at the moment is JavaScript and I'm studying PHP.</li>
 <li>Intern at ICTSI Rio Brasil Terminal</li>
 
 #
