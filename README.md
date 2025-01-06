@@ -47,6 +47,10 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
     <img align="center" alt="Beta-Bootstrap" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="Beta-Python" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Beta-Jupyter" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">
+    <img align="center" alt="Beta-Canva" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
+    <img align="center" alt="Beta-Figma" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  
+  
 </div>
 
 #
